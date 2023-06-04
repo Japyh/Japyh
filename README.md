@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Derya Umut, I'm a electrical and electronic engineering student. 👨‍💻 🚀</div>  
+### <div align="center">I'm Derya Umut, I'm an electrical and electronic engineering student. 👨‍💻 🚀</div>  
   
 
 <br/>  
